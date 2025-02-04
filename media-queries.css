@@ -1,0 +1,15 @@
+@media screen and (max-width: 1015px) {
+    .offer_list-item{
+        display: grid;
+       
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .cards{
+        width: 250px;
+        height: 220px;
+    }
+
+
+    
+}
